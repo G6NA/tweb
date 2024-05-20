@@ -16,7 +16,7 @@
   align-items: center;
   justify-content: space-between;
   align-content: flex-end;
-  border: #4c05f1 solid;
+  border: #05c8cf solid;
 }
 
 .logo{
@@ -27,7 +27,7 @@
 
 .logo i{
   margin-right: 10px;
-  color: hsl(276, 94%, 48%);
+  color: hsl(244, 97%, 15%);
   font-size: 1.8rem;
 }
 
@@ -36,11 +36,11 @@
   margin: 1.2rem;
   font-size: 0.875rem;
   line-height: 1.25rem;
-  color: rgb(82, 79, 79);
+  color: rgb(10, 1, 17);
 }
 
 .menu_list a:hover{
-  color: #13f5d7;
+  color: #07f12e;
 }
 
 /* Home section style */
@@ -48,7 +48,7 @@
   background-image: url(ba.jpg);
   background-size: cover;
   height: 100vh;
-  background-color: #a4dd08;
+  background-color: #084608cc;
 }
 .overlay{
   height: 100%;
@@ -84,13 +84,13 @@
   margin-right: 10px;
 }
 .home_buttons .btn1{
-  background: rgb(228, 151, 8);
+  background: rgb(8, 166, 228);
   color: #fff;
 }
 
 /* services */
 .services{
-  background: rgb(49, 178, 238);
+  background: rgba(8, 184, 37, 0.74);
   padding: 2rem 1rem;
   
 }
@@ -106,7 +106,7 @@
 }
 .title .slogan{
   font-size: 1rem;
-  color: gray;
+  color: rgb(6, 185, 240);
 }
 .services_boxes{
   display: flex;
@@ -131,7 +131,7 @@
   margin-bottom: 2rem;
 }
 .box p{
-  color: gray;
+  color: rgb(144, 228, 9);
   margin-top: 10px;
 }
 .box:hover{
@@ -167,7 +167,7 @@
         display:inline-block;
         text-align:center;
         border-radius:50%;
-        box-shadow:0 0 0 1px rgba(255,255,255,0.4);
+        box-shadow:0 0 0 1px rgba(255, 255, 255, 0.4);
         margin:0 5px;
         color:rgb(6, 98, 218);
         opacity:0.9;
@@ -175,7 +175,7 @@
 
       .footer .item_social > a:hover {
         opacity:0.9;
-        color: #4c05f1;
+        color: #05f1e5;
       }
 
     .footer .copyright {
@@ -184,6 +184,7 @@
         opacity:0.6;
         font-size:20px;
         margin-bottom:0;
+        color: orangered;
       }
 
       .row{
